@@ -1,4 +1,4 @@
 # NewRep-demo
 This is my First git Repository.
 <br>
-Author- doxxy (kappa)
+Author- doxxy (cappa college)
